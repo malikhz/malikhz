@@ -4,7 +4,7 @@
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:malik-hz@outlook.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://malikhmu.github.io)](https://malikhz.github.io)
-[![Github](https://img.shields.io/github/followers/malikhmu?label=Follow&style=social)](https://github.com/malikhz)
+[![Github](https://img.shields.io/github/followers/malikhz?label=Follow&style=social)](https://github.com/malikhz)
 
 - 💻 Full Stack Developer with 2+ years of experience in Python, HTML, CSS, JavaScript, C#, and SQL. Passionate about building scalable and efficient web applications.
 - 🤔 Currently working on projects involving Machine learning, Deep Learning, and Computer Vision.
